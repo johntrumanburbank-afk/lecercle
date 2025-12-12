@@ -1,4 +1,4 @@
-# lecercle
+# le Cercle
 Fintech Communautaire Le Cercle
 
 
