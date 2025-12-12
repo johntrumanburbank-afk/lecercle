@@ -6,6 +6,9 @@ Fintech Communautaire Le Cercle
 
 > L’argent est individuel. Les projets sont collectifs.
 
+![Aperçu de l’application CERCLE](assets/landing_preview_img.png)
+
+
 **CERCLE** est une plateforme de **finance communautaire** qui digitalise un système ancestral :  
 la **tantine** (épargne rotative), au sein de **cercles financiers privés et de confiance**.
 
