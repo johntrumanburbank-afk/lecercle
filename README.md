@@ -1,5 +1,6 @@
 # le Cercle
-Fintech Communautaire Le Cercle
+Fintech Communautaire Le Cercle,  LE CERCLE est une plateforme de finance communautaire qui digitalise un système ancestral :
+la tantine (épargne rotative), au sein de cercles financiers privés et de confiance.
 
 # Demo
 
